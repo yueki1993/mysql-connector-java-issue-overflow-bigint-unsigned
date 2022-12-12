@@ -31,11 +31,11 @@
 
       <!--
       latest version: fail
+      -->
       <groupId>com.mysql</groupId>
       <artifactId>mysql-connector-j</artifactId>
       <version>8.0.31</version>
-      -->
-
+      <scope>test</scope>
       <!--
       8.0.22: fail
       <groupId>mysql</groupId>
@@ -44,11 +44,10 @@
       -->
       <!--
       8.0.21: pass
-      -->
       <groupId>mysql</groupId>
       <artifactId>mysql-connector-java</artifactId>
       <version>8.0.21</version>
-      <scope>test</scope>
+      <scope>test</scope>-->
     </dependency>
 
     <dependency>
