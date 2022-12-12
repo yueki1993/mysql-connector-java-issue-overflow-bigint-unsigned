@@ -35,3 +35,5 @@ has a bug because:
 ## how to run poc
 Run `docker compose up --build` and  `InsertBigIntegerTest`.
 
+## issue link
+https://bugs.mysql.com/bug.php?id=109339
